@@ -12,6 +12,8 @@ faltantes.
 - `resultados/`: archivos producidos por `leer_datos.py`.
 ## Procedencia de los datos
 Estos datos están generados por python.
+El código de python fue generado por el profesor Mauricio Herrera
+Con fines educativos para practicar carga de datos en git y Zenodo.
 ## Como ejecutar
 Requisitos: Python 3.9 o superior.
 1. Descargar o clonar este repositorio.
