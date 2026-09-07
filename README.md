@@ -11,8 +11,7 @@ faltantes.
 - `src/leer_datos.py`: lee los datos, calcula un resumen diario y produce una figura.
 - `resultados/`: archivos producidos por `leer_datos.py`.
 ## Procedencia de los datos
-(Describa como se obtuvieron: instrumento, lugar, periodo, procesamiento
-previo. Si son sinteticos, digalo explicitamente.)
+Estos datos están generados por python.
 ## Como ejecutar
 Requisitos: Python 3.9 o superior.
 1. Descargar o clonar este repositorio.
