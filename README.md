@@ -1,4 +1,5 @@
 # Mediciones horarias de temperatura y humedad de un sensor ambiental
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22651028.svg)](https://doi.org/10.5281/zenodo.22651028)
 Conjunto de datos de ejemplo y programa minimo de lectura, preparados
 como actividad del curso Topicos Avanzados del Analisis de Datos
 (Doctorado en Ingenieria Aplicada). Este registro sera actualizado al
@@ -29,7 +30,8 @@ Internacional (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
 ## Como citar
 Rojas Tejo, M. (2026). Mediciones horarias de temperatura y humedad de un
 sensor ambiental (datos de ejemplo) (Version 1.0.0) [Conjunto de datos].
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22651028.svg)](https://doi.org/10.5281/zenodo.22651028)
+
 
 ## Contacto
 Matias Rojas Tejo, matias.rojas@udd.cl, ORCID: https://orcid.org/0000-0001-7194-0495
