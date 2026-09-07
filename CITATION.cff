@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 message: "Si utiliza estos datos o este codigo, por favor citelos como se indica."
 title: "Mediciones horarias de temperatura y humedad de un sensor ambiental (datos de
   ejemplo)"
@@ -6,7 +6,7 @@ authors:
  - family-names: "Rojas Tejo"
    given-names: "Matias"
    orcid: "https://orcid.org/0000-0001-7194-0495"
-   affiliation: "Facultad de Ingenieria, Doctorado en Ingenieria Aplicada, Universidad del Desarrollo"
+   affiliation: "Doctorado en Ingenieria Aplicada, Facultad de Ingenieria, Universidad del Desarrollo"
 version: 1.0.0
 date-released: "2026-09-07"
 license: MIT
